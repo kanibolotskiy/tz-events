@@ -1,1 +1,1 @@
-http://testevent.zzz.com.ua
+http://testevent.zzz.com.ua/events/
